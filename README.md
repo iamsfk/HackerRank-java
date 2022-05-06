@@ -1,2 +1,2 @@
 # HackerRank-java
-solved hackerrank quetions
+solved hackerrank questions
